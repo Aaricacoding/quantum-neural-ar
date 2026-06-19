@@ -43,6 +43,7 @@ No frameworks. No install. Open the HTML file and go.
 - 3 color themes: Purple Nebula, Sunset Fire, Ocean Aurora
 - Real-time WebGL rendering with Unreal Bloom post-processing
 - Spatial audio: ambient waterfall, water-drop tones, white-noise crackle via Tone.js
+- Embedded background music with volume boost up to 200% and waterfall ambient mute toggle
 - Energy pulse waves that propagate through the node-connection graph
 - Physics-based fireworks system with gravity arc and additive blending
 - Density slider to control node/connection count
