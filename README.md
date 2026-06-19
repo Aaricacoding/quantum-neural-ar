@@ -69,12 +69,21 @@ Zero build tools. Zero dependencies to install. Everything loads from CDN.
 
 ## Getting Started
 
-```bash
-git clone https://github.com/Aaricacoding/quantum-neural-ar.git
-cd quantum-neural-ar
+**Fork this repo** — hit the Fork button at the top right of this page.
+
+Then go to your forked repo's **Settings → Pages**, set the source to `main` branch and `/ (root)`, hit Save.
+
+That's it! GitHub will give you a live link like:
+
+```
+https://yourusername.github.io/quantum-neural-ar/
 ```
 
-Then just open `index.html` in any Chromium-based browser (Chrome, Edge, Brave). Firefox works but MediaPipe performs better on Chromium.
+Come back to your forked repo, click **Edit** (the pencil icon next to About on the right side), paste your GitHub Pages URL in the **Website** field and check ✅ **Use your GitHub Pages website**, then Save.
+
+Your live version is up and linked! 🎉
+
+```
 
 > Camera and microphone permissions are required for gesture detection and audio.
 
@@ -83,9 +92,11 @@ Then just open `index.html` in any Chromium-based browser (Chrome, Edge, Brave).
 ## Project Structure
 
 ```
+
 quantum-neural-ar/
-├── index.html       # Entire app — single file
+├── index.html # Entire app — single file
 └── README.md
+
 ```
 
 ---
@@ -104,3 +115,4 @@ MediaPipe Hands tracks 21 landmarks per hand at up to 30fps. Gestures are derive
 ## License
 
 MIT © 2026 [Aarica Raj](https://github.com/Aaricacoding)
+```
