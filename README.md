@@ -1,4 +1,4 @@
-# quantum-neural-ar
+# Quantum Neural AR😍✨
 
 Real-time 3D neural network controlled entirely by hand gestures : no backend, no install, runs in the browser.
 
@@ -83,8 +83,6 @@ Come back to your forked repo, click **Edit** (the pencil icon next to About on 
 
 Your live version is up and linked! 🎉
 
-```
-
 > Camera and microphone permissions are required for gesture detection and audio.
 
 ---
@@ -92,7 +90,6 @@ Your live version is up and linked! 🎉
 ## Project Structure
 
 ```
-
 quantum-neural-ar/
 ├── index.html # Entire app — single file
 └── README.md
@@ -114,5 +111,8 @@ MediaPipe Hands tracks 21 landmarks per hand at up to 30fps. Gestures are derive
 
 ## License
 
-MIT © 2026 [Aarica Raj](https://github.com/Aaricacoding)
+MIT © 2026
+
+```
+
 ```
